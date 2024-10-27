@@ -3,7 +3,7 @@ name: Run E-Class Scraper and Send Email
 on:
   workflow_dispatch: 
   schedule:
-    - cron: '*/5 * * * *'  
+    - cron: '0 1 * * *'  
 
 jobs:
   run_script:
