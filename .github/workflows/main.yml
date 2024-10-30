@@ -1,4 +1,4 @@
-name: Run E-Class Scraper and Send Email
+name: Notif Presensi Eclass
 
 on:
   workflow_dispatch: 
@@ -32,7 +32,6 @@ jobs:
         ECLASS_PASSWORD: ${{ secrets.ECLASS_PASSWORD }}
         DATA_PRESENSI : ${{secrets.DATA_PRESENSI}}
       run: |
-        echo "Creating user.json with provided secrets..."
         cat <<EOF > user.json
         {
             "email": "$EMAIL",
@@ -43,14 +42,10 @@ jobs:
             "return_url": "e-class/home/",
         }
         EOF
-        cat <<EOF > dataPresensi.json
-        $DATA_PRESENSI
-        EOF
-
         python PresensiCek.py
 
-    # - name: Upload Presensi Data as Artifact
-    #   uses: actions/upload-artifact@v3
-    #   with:
-    #     name: dataPresensi
-    #     path: dataPresensi.json
+    - name: Upload Presensi Data as Artifact
+      uses: actions/upload-artifact@v3
+      with:
+        name: dataPresensi
+        path: dataPresensi.json
