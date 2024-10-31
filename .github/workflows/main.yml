@@ -46,8 +46,3 @@ jobs:
 
         python PresensiCek.py
 
-    - name: Upload Presensi Data as Artifact
-      uses: actions/upload-artifact@v3
-      with:
-        name: dataPresensi
-        path: dataPresensi.json
