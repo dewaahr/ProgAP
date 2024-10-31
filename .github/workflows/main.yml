@@ -52,8 +52,8 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        git config --global user.name "dewaahr"
-        git config --global user.email "hermanus.rangga@ti.ukdw.ac.id"
+        git config --global user.name "dewaahr"  # Ganti dengan nama pengguna Anda
+        git config --global user.email "dewaahr@example.com"  # Ganti dengan email Anda
         git add dataPresensi.json
         git commit -m "Update dataPresensi.json from workflow"
         git remote set-url origin https://${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
