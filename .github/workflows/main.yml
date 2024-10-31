@@ -30,7 +30,6 @@ jobs:
         RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
         ECLASS_ID: ${{ secrets.ECLASS_ID }}           
         ECLASS_PASSWORD: ${{ secrets.ECLASS_PASSWORD }}
-        DATA_PRESENSI : ${{secrets.DATA_PRESENSI}}
       run: |
         cat <<EOF > user.json
         {
