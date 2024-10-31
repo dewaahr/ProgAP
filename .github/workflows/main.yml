@@ -1,4 +1,4 @@
-name: Eclass Notif Presensi
+name: Run E-Class Scraper and Send Email
 
 on:
   workflow_dispatch: 
@@ -13,7 +13,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
       with:
-        persist-credentials: false 
+        persist-credentials: false
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -50,11 +50,11 @@ jobs:
 
     - name: Commit and Push Changes
       env:
-        GITHUB_TOKEN: ${{ secrets.GUTHIB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        git config --global user.name "dewaahr" 
+        git config --global user.name "dewaahr"
         git config --global user.email "hermanus.rangga@ti.ukdw.ac.id"
         git add dataPresensi.json
         git commit -m "Update dataPresensi.json from workflow"
         git remote set-url origin https://${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
-        git push origin HEAD:main
+        git push origin main
