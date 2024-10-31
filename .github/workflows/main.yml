@@ -50,7 +50,7 @@ jobs:
 
     - name: Commit and Push Changes
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GUTHIB_TOKEN }}
       run: |
         git config --global user.name "dewaahr" 
         git config --global user.email "hermanus.rangga@ti.ukdw.ac.id"
