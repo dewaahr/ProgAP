@@ -1,4 +1,4 @@
-name: Run E-Class Scraper and Send Email
+name: Run Eclass CekPresensi
 
 on:
   workflow_dispatch: 
@@ -19,6 +19,14 @@ jobs:
       uses: actions/setup-python@v4
       with:
         python-version: '3.12.3'
+
+    - name: Cache Python packages
+      uses: actions/cache@v3
+      with:
+        path: ~/.cache/pip
+        key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+        restore-keys: |
+          ${{ runner.os }}-pip-
 
     - name: Install dependencies
       run: |
