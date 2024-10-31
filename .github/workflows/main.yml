@@ -13,7 +13,7 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
       with:
-        persist-credentials: false  # Ini diperlukan untuk push dengan token
+        persist-credentials: false 
 
     - name: Set up Python
       uses: actions/setup-python@v4
@@ -52,8 +52,8 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
-        git config --global user.name "github-actions[bot]"
-        git config --global user.email "github-actions[bot]@users.noreply.github.com"
         git add dataPresensi.json
         git commit -m "Update dataPresensi.json from workflow"
-        git push
+        git remote set-url origin https://${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
+        git push origin HEAD:main
+
