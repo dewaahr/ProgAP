@@ -32,6 +32,13 @@ def create_Email(kelas, new_presensi):
     sender_email = user['email']
     sender_password = user['passEmail']
     recipient_email = user['recipient']
+    bot_token = user['token']
+    chat_id = user['chat_id']
+
+    msgTelegram = f"Presensi Baru Kelas {kelas_file[kelas]}\n\n" \
+                    f"Tanggal: {new_presensi['Tanggal']}\n" \
+                    f"Pertemuan Ke: {new_presensi['Pertemuan Ke']}"
+    send_telegram_message(bot_token,chat_id, msgTelegram)
 
     msg = MIMEMultipart()
     msg['From'] = sender_email
@@ -80,6 +87,14 @@ def get_kelas():
             link = link.replace('materi/index', 'id/kelas/presensi')
             links_presensi.append(link)
         return links_presensi
+def send_telegram_message(bot_token,chat_id, message):
+    url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
+    
+    payload = {
+        'chat_id': chat_id,
+        'text': message,
+    }
+    response = requests.post(url, data=payload)
 
 def main():
     list_kelas = get_kelas()
