@@ -41,7 +41,8 @@ jobs:
         RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
         ECLASS_ID: ${{ secrets.ECLASS_ID }}           
         ECLASS_PASSWORD: ${{ secrets.ECLASS_PASSWORD }}
-        
+        TOKEN_TELEGRAM: ${{ secrets.TOKEN_TELEGRAM }}
+        CHAT_ID: ${{ secrets.CHAT_ID }}
       run: |
         cat <<EOF > user.json
         {
@@ -50,7 +51,9 @@ jobs:
             "recipient": "$RECIPIENT_EMAIL",
             "id": "$ECLASS_ID",
             "password": "$ECLASS_PASSWORD",
-            "return_url": "e-class/home/"
+            "return_url": "e-class/home/",
+            "token": "$TOKEN_TELEGRAM",
+            "chat_id": "$CHAT_ID"
         }
         EOF
 
