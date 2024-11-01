@@ -37,7 +37,8 @@ def create_Email(kelas, new_presensi):
 
     msgTelegram = f"Presensi Baru Kelas {kelas_file[kelas]}\n\n" \
                     f"Tanggal: {new_presensi['Tanggal']}\n" \
-                    f"Pertemuan Ke: {new_presensi['Pertemuan Ke']}"
+                    f"Pertemuan Ke: {new_presensi['Pertemuan Ke']}\n"\
+                    f" Link Presensi : {kelas}"
     send_telegram_message(bot_token,chat_id, msgTelegram)
 
     msg = MIMEMultipart()
