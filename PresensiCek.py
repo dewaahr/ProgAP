@@ -1,5 +1,5 @@
-from email.mime.multipart import MIMEMultipart
-from email.mime.text import MIMEText
+# from email.mime.multipart import MIMEMultipart
+# from email.mime.text import MIMEText
 import requests
 from bs4 import BeautifulSoup
 import json
