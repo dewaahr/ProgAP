@@ -41,29 +41,29 @@ def create_Email(kelas, new_presensi):
                     f" Link Presensi : {kelas}"
     send_telegram_message(bot_token,chat_id, msgTelegram)
 
-    msg = MIMEMultipart()
-    msg['From'] = sender_email
-    msg['To'] = recipient_email
-    msg['Subject'] = "Presensi Baru Kelas " + kelas_file[kelas]
+    # msg = MIMEMultipart()
+    # msg['From'] = sender_email
+    # msg['To'] = recipient_email
+    # msg['Subject'] = "Presensi Baru Kelas " + kelas_file[kelas]
 
-    body = (
-        f"Tanggal: {new_presensi['Tanggal']}\n"
-        f"Mata Kuliah: {kelas_file[kelas]}\n"
-        f"Pertemuan Ke: {new_presensi['Pertemuan Ke']}\n"
-    )
+    # body = (
+    #     f"Tanggal: {new_presensi['Tanggal']}\n"
+    #     f"Mata Kuliah: {kelas_file[kelas]}\n"
+    #     f"Pertemuan Ke: {new_presensi['Pertemuan Ke']}\n"
+    # )
 
-    msg.attach(MIMEText(body, 'plain'))
+    # msg.attach(MIMEText(body, 'plain'))
 
-    try:
-        with smtplib.SMTP('smtp.gmail.com', 587) as server:
-            server.starttls()
-            server.login(sender_email, sender_password)
-            server.send_message(msg)
-        print("Email berhasil dikirim")
-        return True
-    except Exception as e:
-        print(f"Gagal mengirim email: {e}")
-        return False
+    # try:
+    #     with smtplib.SMTP('smtp.gmail.com', 587) as server:
+    #         server.starttls()
+    #         server.login(sender_email, sender_password)
+    #         server.send_message(msg)
+    #     print("Email berhasil dikirim")
+    #     return True
+    # except Exception as e:
+    #     print(f"Gagal mengirim email: {e}")
+    #     return False
 
 def get_kelas():
     login_url = "https://eclass.ukdw.ac.id/id/home/do_login"
