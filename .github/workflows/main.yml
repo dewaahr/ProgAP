@@ -68,11 +68,9 @@ jobs:
       if: env.changed == 'true'
       env:
         GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
-        EMAIL_GIT : ${{secrets.GIT_EMAIL}}
-        USR_GIT : ${{secrets.GIT_USR}}
       run: |
-        git config --global user.name "${EMAIL_GIT}"
-        git config --global user.email "${USR_GIT}"
+        git config --global user.name "${USR_GIT}"
+        git config --global user.email "${EMAIL_GIT}"
         git add dataPresensi.json
         git commit -m "Auto Update dataPresensi.json from workflow"
         git remote set-url origin https://${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
