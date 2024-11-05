@@ -36,9 +36,6 @@ jobs:
 
     - name: Run Python script
       env:
-        EMAIL: ${{ secrets.EMAIL }}
-        EMAIL_PASSWORD: ${{ secrets.EMAIL_PASSWORD }}  
-        RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
         ECLASS_ID: ${{ secrets.ECLASS_ID }}           
         ECLASS_PASSWORD: ${{ secrets.ECLASS_PASSWORD }}
         TOKEN_TELEGRAM: ${{ secrets.TOKEN_TELEGRAM }}
@@ -46,9 +43,6 @@ jobs:
       run: |
         cat <<EOF > user.json
         {
-            "email": "$EMAIL",
-            "passEmail": "$EMAIL_PASSWORD",
-            "recipient": "$RECIPIENT_EMAIL",
             "id": "$ECLASS_ID",
             "password": "$ECLASS_PASSWORD",
             "return_url": "e-class/home/",
@@ -69,8 +63,8 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
       run: |
-        git config --global user.name "${USR_GIT}"
-        git config --global user.email "${EMAIL_GIT}"
+        git config --global user.name "dewaahr"
+        git config --global user.email "hermanus.rangga@ti.ukdw.ac.id"
         git add dataPresensi.json
         git commit -m "Auto Update dataPresensi.json from workflow"
         git remote set-url origin https://${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
