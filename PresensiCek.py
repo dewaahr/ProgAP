@@ -29,9 +29,9 @@ def get_presensi(html_content):
 def create_Email(kelas, new_presensi):
     kelas_file = json.load(open("datakelas.json"))
     user = json.load(open("user.json"))
-    sender_email = user['email']
-    sender_password = user['passEmail']
-    recipient_email = user['recipient']
+    # sender_email = user['email']
+    # sender_password = user['passEmail']
+    # recipient_email = user['recipient']
     bot_token = user['token']
     chat_id = user['chat_id']
 
