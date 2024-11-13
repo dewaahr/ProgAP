@@ -404,76 +404,83 @@
     "https://eclass.ukdw.ac.id/e-class/id/kelas/presensi/TI9233": [
         {
             "No": "1",
+            "Tanggal": "13-11-2024 07:30",
+            "Pertemuan Ke": "12",
+            "Keterangan": "Judul : Pertemuan ke-12\r \t\t\t\t\t\t\t\tMateri : SAP Technologies [SAP01 bab 7],\u00a0Latihan Bab 7 (5%)Latihan Ujian\u00a0  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (13-11-2024 07:47:58)",
+            "Presensi": "A"
+        },
+        {
+            "No": "2",
             "Tanggal": "06-11-2024 07:30",
             "Pertemuan Ke": "11",
             "Keterangan": "Judul : Pertemuan ke-11\r \t\t\t\t\t\t\t\tMateri : SAP Human Capital Management [SAP01 Bab 6]Tugas 7 (5%)  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (05-11-2024 16:08:50)",
             "Presensi": "A"
         },
         {
-            "No": "2",
+            "No": "3",
             "Tanggal": "30-10-2024 07:30",
             "Pertemuan Ke": "10",
             "Keterangan": "Judul : Pertemuan ke-10\r \t\t\t\t\t\t\t\tMateri : SAP Financial 2 Management Accounting [SAP01 bab 5]Tugas 6 (5%)  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (30-10-2024 07:42:42)",
             "Presensi": "A"
         },
         {
-            "No": "3",
+            "No": "4",
             "Tanggal": "21-10-2024 10:30",
             "Pertemuan Ke": "9",
             "Keterangan": "Judul : Pertemuan ke-9\r \t\t\t\t\t\t\t\tMateri : UTS (20%) Ujian Tengah Semester Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (21-10-2024 11:10:09)",
             "Presensi": "H(21/10 11:11)"
         },
         {
-            "No": "4",
+            "No": "5",
             "Tanggal": "16-10-2024 07:52",
             "Pertemuan Ke": "8",
             "Keterangan": "Judul : Pertemuan ke-8\r \t\t\t\t\t\t\t\tMateri : SAP Financial 1 Accounting [SAP01 bab 5]Tugas 5 (5%)  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (16-10-2024 07:52:41)",
             "Presensi": "H(16/10 08:08)"
         },
         {
-            "No": "5",
+            "No": "6",
             "Tanggal": "09-10-2024 07:30",
             "Pertemuan Ke": "7",
             "Keterangan": "Judul : Pertemuan ke-7\r \t\t\t\t\t\t\t\tMateri : Business Process (Financial dan Management Accounting) [Simha]  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (08-10-2024 19:22:34)",
             "Presensi": "H(09/10 07:58)"
         },
         {
-            "No": "6",
+            "No": "7",
             "Tanggal": "02-10-2024 07:30",
             "Pertemuan Ke": "6",
             "Keterangan": "Judul : Pertemuan ke-6\r \t\t\t\t\t\t\t\tMateri : SAP Logistics 2 (Production) [SAP01 bab 4]Tugas 4 (5%)  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (02-10-2024 07:39:25)",
             "Presensi": "A"
         },
         {
-            "No": "7",
+            "No": "8",
             "Tanggal": "25-09-2024 07:30",
             "Pertemuan Ke": "5",
             "Keterangan": "Judul : Pertemuan ke-5\r \t\t\t\t\t\t\t\tMateri : SAP Logistics (Sales and Procurement) [SAP01 bab 4]Tugas 3 (5%)  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (24-09-2024 21:58:09)",
             "Presensi": "A"
         },
         {
-            "No": "8",
+            "No": "9",
             "Tanggal": "18-09-2024 08:00",
             "Pertemuan Ke": "4",
             "Keterangan": "Judul : Pertemuan ke-4\r \t\t\t\t\t\t\t\tMateri : Business Process (Procurement, Sales, Production) [Simha]  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (18-09-2024 09:22:45)",
             "Presensi": "H(18/09 09:23)"
         },
         {
-            "No": "9",
+            "No": "10",
             "Tanggal": "11-09-2024 07:17",
             "Pertemuan Ke": "3",
             "Keterangan": "Judul : Pertemuan ke-3\r \t\t\t\t\t\t\t\tMateri :    Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (11-09-2024 07:18:14)",
             "Presensi": "A"
         },
         {
-            "No": "10",
+            "No": "11",
             "Tanggal": "04-09-2024 07:50",
             "Pertemuan Ke": "2",
             "Keterangan": "Judul : Pertemuan ke-2\r \t\t\t\t\t\t\t\tMateri : SAP Overview dan SAP Navigation [Turban, SAP01 bab 1 & 2]Tugas 1 (5%)  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (04-09-2024 07:50:26)",
             "Presensi": "H(04/09 07:55)"
         },
         {
-            "No": "11",
+            "No": "12",
             "Tanggal": "28-08-2024 07:30",
             "Pertemuan Ke": "1",
             "Keterangan": "Judul : Pertemuan ke-1\r \t\t\t\t\t\t\t\tMateri : Pendahuluan: silabus, kontrak perkuliahan, overview dan ERP [PPT kompilasi, Turban Bab 1]Pengenalan dan konfigurasi MonsoonSIM awalPengantar pembentukan kelompok untuk Monsoon dan BussimAkun Moodle  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (27-08-2024 19:06:44)",
