@@ -2,69 +2,76 @@
     "https://eclass.ukdw.ac.id/e-class/id/kelas/presensi/TI0043": [
         {
             "No": "1",
+            "Tanggal": "14-11-2024 07:25",
+            "Pertemuan Ke": "11",
+            "Keterangan": "Judul : Pertemuan ke-11\r \t\t\t\t\t\t\t\tMateri : Penalaran dalam Logika Predikat Part 1 Logika Predikat Part 2 Oleh : Rosa Delima (11-11-2024 22:19:42)",
+            "Presensi": "A"
+        },
+        {
+            "No": "2",
             "Tanggal": "07-11-2024 07:25",
             "Pertemuan Ke": "10",
             "Keterangan": "Judul : Pertemuan ke-10\r \t\t\t\t\t\t\t\tMateri : Kuantor dan logika predikat logika predikat Oleh : Rosa Delima (05-11-2024 07:08:37)",
             "Presensi": "A"
         },
         {
-            "No": "2",
+            "No": "3",
             "Tanggal": "31-10-2024 07:25",
             "Pertemuan Ke": "9",
             "Keterangan": "Judul : Pertemuan ke-9\r \t\t\t\t\t\t\t\tMateri : Logika Predikat Logika Predikat Oleh : Rosa Delima (28-10-2024 09:14:44)",
             "Presensi": "A"
         },
         {
-            "No": "3",
+            "No": "4",
             "Tanggal": "18-10-2024 15:15",
             "Pertemuan Ke": "8",
             "Keterangan": "Judul : Pertemuan ke-8\r \t\t\t\t\t\t\t\tMateri : UTS UTS Oleh : Rosa Delima (17-10-2024 19:18:52)",
             "Presensi": "H(18/10 15:28)"
         },
         {
-            "No": "4",
+            "No": "5",
             "Tanggal": "10-10-2024 07:25",
             "Pertemuan Ke": "7",
             "Keterangan": "Judul : Pertemuan ke-7\r \t\t\t\t\t\t\t\tMateri : Uji Validitas argumen Part 2 Tes Kecil 1 Oleh : Rosa Delima (08-10-2024 10:43:36)",
             "Presensi": "A"
         },
         {
-            "No": "5",
+            "No": "6",
             "Tanggal": "03-10-2024 07:25",
             "Pertemuan Ke": "6",
             "Keterangan": "Judul : Pertemuan ke-6\r \t\t\t\t\t\t\t\tMateri : kuis Uji Validitas Part 2 Oleh : Rosa Delima (30-09-2024 18:57:49)",
             "Presensi": "H(03/10 08:46)"
         },
         {
-            "No": "6",
+            "No": "7",
             "Tanggal": "26-09-2024 07:25",
             "Pertemuan Ke": "5",
             "Keterangan": "Judul : Pertemuan ke-5\r \t\t\t\t\t\t\t\tMateri : Uji Validitas Argumen latihan rumus persamaan ekuivalensi dan uji validitas atgumen Oleh : Rosa Delima (23-09-2024 07:26:10)",
             "Presensi": "H(26/09 08:07)"
         },
         {
-            "No": "7",
+            "No": "8",
             "Tanggal": "19-09-2024 07:25",
             "Pertemuan Ke": "4",
             "Keterangan": "Judul : Pertemuan ke-4\r \t\t\t\t\t\t\t\tMateri : equivalensi logis dan hukum logika equivalensi logis dan hukum logika Oleh : Rosa Delima (17-09-2024 06:47:31)",
             "Presensi": "H(19/09 07:44)"
         },
         {
-            "No": "8",
+            "No": "9",
             "Tanggal": "12-09-2024 07:25",
             "Pertemuan Ke": "3",
             "Keterangan": "Judul : Pertemuan ke-3\r \t\t\t\t\t\t\t\tMateri : Argumen pada logika, Pembuktian tautologi, kontradiksi, atau kontigensi pada logika Argumen pada logika, Pembuktian tautologi, kontradiksi, atau kontigensi pada logika Oleh : Rosa Delima (09-09-2024 07:31:47)",
             "Presensi": "H(12/09 07:43)"
         },
         {
-            "No": "9",
+            "No": "10",
             "Tanggal": "05-09-2024 07:25",
             "Pertemuan Ke": "2",
             "Keterangan": "Judul : Pertemuan ke-2\r \t\t\t\t\t\t\t\tMateri : Logika Proposisi Logika Proposisi dan tabel kebenaran Oleh : Rosa Delima (02-09-2024 08:53:59)",
             "Presensi": "A"
         },
         {
-            "No": "10",
+            "No": "11",
             "Tanggal": "29-08-2024 07:25",
             "Pertemuan Ke": "1",
             "Keterangan": "Judul : Pertemuan ke-1\r \t\t\t\t\t\t\t\tMateri : Pendahuluan: silabus, kontrak perkuliahan, dan pengantar logika Pendahuluan Oleh : Rosa Delima (27-08-2024 07:04:44)",
