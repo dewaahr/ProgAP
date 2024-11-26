@@ -88,83 +88,90 @@
     "https://eclass.ukdw.ac.id/e-class/id/kelas/presensi/TI0313": [
         {
             "No": "1",
+            "Tanggal": "26-11-2024 17:59",
+            "Pertemuan Ke": "13",
+            "Keterangan": "Judul : Pertemuan ke-13\r \t\t\t\t\t\t\t\tMateri :   Minggu ketiga belas Oleh : Hendro Setiadi (26-11-2024 18:01:40)",
+            "Presensi": "H(26/11 18:02)"
+        },
+        {
+            "No": "2",
             "Tanggal": "19-11-2024 17:46",
             "Pertemuan Ke": "12",
             "Keterangan": "Judul : Pertemuan ke-12\r \t\t\t\t\t\t\t\tMateri :   Minggu kedua belas Oleh : Hendro Setiadi (19-11-2024 17:48:07)",
             "Presensi": "H(19/11 17:48)"
         },
         {
-            "No": "2",
+            "No": "3",
             "Tanggal": "12-11-2024 17:51",
             "Pertemuan Ke": "11",
             "Keterangan": "Judul : Pertemuan ke-11\r \t\t\t\t\t\t\t\tMateri :   Minggu kesebelas Oleh : Hendro Setiadi (12-11-2024 17:52:21)",
             "Presensi": "H(12/11 17:53) user : 200904079"
         },
         {
-            "No": "3",
+            "No": "4",
             "Tanggal": "05-11-2024 17:39",
             "Pertemuan Ke": "10",
             "Keterangan": "Judul : Pertemuan ke-10\r \t\t\t\t\t\t\t\tMateri :   Minggu kesepuluh Oleh : Hendro Setiadi (05-11-2024 17:40:45)",
             "Presensi": "H(05/11 17:41) user : 200904079"
         },
         {
-            "No": "4",
+            "No": "5",
             "Tanggal": "29-10-2024 18:18",
             "Pertemuan Ke": "9",
             "Keterangan": "Judul : Pertemuan ke-9\r \t\t\t\t\t\t\t\tMateri :   Minggu kesembilan Oleh : Hendro Setiadi (29-10-2024 18:19:11)",
             "Presensi": "A"
         },
         {
-            "No": "5",
+            "No": "6",
             "Tanggal": "15-10-2024 18:00",
             "Pertemuan Ke": "8",
             "Keterangan": "Judul : Pertemuan ke-8\r \t\t\t\t\t\t\t\tMateri :   Minggu kedelapan Oleh : Hendro Setiadi (15-10-2024 18:01:12)",
             "Presensi": "H(15/10 18:01)"
         },
         {
-            "No": "6",
+            "No": "7",
             "Tanggal": "08-10-2024 17:57",
             "Pertemuan Ke": "7",
             "Keterangan": "Judul : Pertemuan ke-7\r \t\t\t\t\t\t\t\tMateri :   Minggu ketujuh Oleh : Hendro Setiadi (08-10-2024 17:58:20)",
             "Presensi": "H(08/10 17:58) user : 200904079"
         },
         {
-            "No": "7",
+            "No": "8",
             "Tanggal": "01-10-2024 18:14",
             "Pertemuan Ke": "6",
             "Keterangan": "Judul : Pertemuan ke-6\r \t\t\t\t\t\t\t\tMateri :   Minggu keenam Oleh : Hendro Setiadi (01-10-2024 18:15:08)",
             "Presensi": "A"
         },
         {
-            "No": "8",
+            "No": "9",
             "Tanggal": "24-09-2024 18:30",
             "Pertemuan Ke": "5",
             "Keterangan": "Judul : Pertemuan ke-5\r \t\t\t\t\t\t\t\tMateri :   Minggu keempat Oleh : Hendro Setiadi (24-09-2024 18:31:01)",
             "Presensi": "H(24/09 18:31)"
         },
         {
-            "No": "9",
+            "No": "10",
             "Tanggal": "17-09-2024 18:00",
             "Pertemuan Ke": "4",
             "Keterangan": "Judul : Pertemuan ke-4\r \t\t\t\t\t\t\t\tMateri :   Minggu keempat Oleh : Hendro Setiadi (17-09-2024 18:00:49)",
             "Presensi": "H(17/09 18:00)"
         },
         {
-            "No": "10",
+            "No": "11",
             "Tanggal": "10-09-2024 18:17",
             "Pertemuan Ke": "3",
             "Keterangan": "Judul : Pertemuan ke-3\r \t\t\t\t\t\t\t\tMateri :   Minggu ketiga Oleh : Hendro Setiadi (10-09-2024 18:18:10)",
             "Presensi": "H(10/09 18:19)"
         },
         {
-            "No": "11",
+            "No": "12",
             "Tanggal": "03-09-2024 18:07",
             "Pertemuan Ke": "2",
             "Keterangan": "Judul : Pertemuan ke-2\r \t\t\t\t\t\t\t\tMateri :   Minggu ke 2 Oleh : Hendro Setiadi (03-09-2024 18:08:15)",
             "Presensi": "H(03/09 18:09)"
         },
         {
-            "No": "12",
+            "No": "13",
             "Tanggal": "27-08-2024 17:45",
             "Pertemuan Ke": "1",
             "Keterangan": "Judul : Pertemuan ke-1\r \t\t\t\t\t\t\t\tMateri :    Oleh : Hendro Setiadi (27-08-2024 17:46:48)",
