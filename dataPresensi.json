@@ -174,90 +174,97 @@
     "https://eclass.ukdw.ac.id/e-class/id/kelas/presensi/TI6053": [
         {
             "No": "1",
+            "Tanggal": "26-11-2024 13:30",
+            "Pertemuan Ke": "14",
+            "Keterangan": "Judul : Pertemuan ke-14\r \t\t\t\t\t\t\t\tMateri : Jaringan Learning Vector Quantisation (LVQ)  Oleh : Matahari Bhakti Nendya, S.Kom., M.T (26-11-2024 13:18:15)",
+            "Presensi": "A"
+        },
+        {
+            "No": "2",
             "Tanggal": "19-11-2024 13:30",
             "Pertemuan Ke": "13",
             "Keterangan": "Judul : Pertemuan ke-13\r \t\t\t\t\t\t\t\tMateri : Jaringan Self Organizing Map (SOM) Jaringan Self Organizing Map (SOM)\r LVQ - Learning Vector Quantization  Oleh : Joko Purwadi (19-11-2024 13:26:01)",
             "Presensi": "H(19/11 13:37)"
         },
         {
-            "No": "2",
+            "No": "3",
             "Tanggal": "12-11-2024 13:31",
             "Pertemuan Ke": "12",
             "Keterangan": "Judul : Pertemuan ke-12\r \t\t\t\t\t\t\t\tMateri : Jaringan Hopfield  Oleh : Matahari Bhakti Nendya, S.Kom., M.T (12-11-2024 13:31:46)",
             "Presensi": "H(12/11 14:10)"
         },
         {
-            "No": "3",
+            "No": "4",
             "Tanggal": "05-11-2024 13:30",
             "Pertemuan Ke": "11",
             "Keterangan": "Judul : Pertemuan ke-11\r \t\t\t\t\t\t\t\tMateri : Pelatihan RBF  Oleh : Matahari Bhakti Nendya, S.Kom., M.T (05-11-2024 13:07:32)",
             "Presensi": "A"
         },
         {
-            "No": "4",
+            "No": "5",
             "Tanggal": "29-10-2024 13:38",
             "Pertemuan Ke": "10",
             "Keterangan": "Judul : Pertemuan ke-10\r \t\t\t\t\t\t\t\tMateri : Jaringan Radial Basis Function (RBF) Recurrent Hopfield Networks Oleh : Joko Purwadi (29-10-2024 13:39:33)",
             "Presensi": "H(29/10 13:58)"
         },
         {
-            "No": "5",
+            "No": "6",
             "Tanggal": "21-10-2024 08:00",
             "Pertemuan Ke": "9",
             "Keterangan": "Judul : Pertemuan ke-9\r \t\t\t\t\t\t\t\tMateri : Materi pertemuan 1-7\u00a0 Ujian Tengah Semester Oleh : Joko Purwadi (21-10-2024 07:40:27)",
             "Presensi": "A"
         },
         {
-            "No": "6",
+            "No": "7",
             "Tanggal": "15-10-2024 13:30",
             "Pertemuan Ke": "8",
             "Keterangan": "Judul : Pertemuan ke-8\r \t\t\t\t\t\t\t\tMateri : Jaringan Multilayer Perceptron (MLP): algoritma pelatihannya  Oleh : Matahari Bhakti Nendya, S.Kom., M.T (15-10-2024 13:26:55)",
             "Presensi": "H(15/10 14:22)"
         },
         {
-            "No": "7",
+            "No": "8",
             "Tanggal": "08-10-2024 13:31",
             "Pertemuan Ke": "7",
             "Keterangan": "Judul : Pertemuan ke-7\r \t\t\t\t\t\t\t\tMateri : Jaringan Multilayer Perceptron (MLP): arsitekturnya Jaringan Multilayer Perceptron (MLP): arsitekturnya Oleh : Joko Purwadi (08-10-2024 13:33:01)",
             "Presensi": "H(08/10 14:42)"
         },
         {
-            "No": "8",
+            "No": "9",
             "Tanggal": "01-10-2024 13:30",
             "Pertemuan Ke": "6",
             "Keterangan": "Judul : Pertemuan ke-6\r \t\t\t\t\t\t\t\tMateri : Jaringan ADALINE  Oleh : Matahari Bhakti Nendya, S.Kom., M.T (01-10-2024 13:11:46)",
             "Presensi": "A"
         },
         {
-            "No": "9",
+            "No": "10",
             "Tanggal": "24-09-2024 13:21",
             "Pertemuan Ke": "5",
             "Keterangan": "Judul : Pertemuan ke-5\r \t\t\t\t\t\t\t\tMateri : Jaringan Perceptron Jaringan Perceptron;\r Jaringan Adaline;  Oleh : Joko Purwadi (24-09-2024 13:23:02)",
             "Presensi": "H(24/09 13:34)"
         },
         {
-            "No": "10",
+            "No": "11",
             "Tanggal": "17-09-2024 13:30",
             "Pertemuan Ke": "4",
             "Keterangan": "Judul : Pertemuan ke-4\r \t\t\t\t\t\t\t\tMateri : Macam-macam arsitektur JST: single layer, multi layer, recurrent  Oleh : Matahari Bhakti Nendya, S.Kom., M.T (17-09-2024 12:46:22)",
             "Presensi": "H(17/09 13:38)"
         },
         {
-            "No": "11",
+            "No": "12",
             "Tanggal": "10-09-2024 13:33",
             "Pertemuan Ke": "3",
             "Keterangan": "Judul : Pertemuan ke-3\r \t\t\t\t\t\t\t\tMateri : Pengertian fungsi aktivasi Pengertian fungsi aktivasi Oleh : Joko Purwadi (10-09-2024 13:35:42)",
             "Presensi": "H(10/09 14:59)"
         },
         {
-            "No": "12",
+            "No": "13",
             "Tanggal": "03-09-2024 13:30",
             "Pertemuan Ke": "2",
             "Keterangan": "Judul : Pertemuan ke-2\r \t\t\t\t\t\t\t\tMateri : Pengertian neuron, Aktivasi dan Cara menghitungnya  Oleh : Matahari Bhakti Nendya, S.Kom., M.T (03-09-2024 13:20:16)",
             "Presensi": "H(03/09 13:38)"
         },
         {
-            "No": "13",
+            "No": "14",
             "Tanggal": "27-08-2024 13:25",
             "Pertemuan Ke": "1",
             "Keterangan": "Judul : Pertemuan ke-1\r \t\t\t\t\t\t\t\tMateri : RPS, Pengertian JST dan manfaat aplikasinya RPS, Pengertian JST dan manfaat aplikasinya Oleh : Joko Purwadi (27-08-2024 13:26:43)",
