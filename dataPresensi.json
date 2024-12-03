@@ -288,97 +288,104 @@
     "https://eclass.ukdw.ac.id/e-class/id/kelas/presensi/TI9063": [
         {
             "No": "1",
+            "Tanggal": "03-12-2024 10:30",
+            "Pertemuan Ke": "15",
+            "Keterangan": "Judul : Pertemuan ke-15\r \t\t\t\t\t\t\t\tMateri : Kecerdasan Buatan Dalam Game  Oleh : Matahari Bhakti Nendya, S.Kom., M.T (03-12-2024 10:12:02)",
+            "Presensi": "A"
+        },
+        {
+            "No": "2",
             "Tanggal": "26-11-2024 10:30",
             "Pertemuan Ke": "14",
             "Keterangan": "Judul : Pertemuan ke-14\r \t\t\t\t\t\t\t\tMateri : Prototyping: Unity Finishing and Porting  Oleh : Matahari Bhakti Nendya, S.Kom., M.T (26-11-2024 10:26:45)",
             "Presensi": "H(26/11 11:39)"
         },
         {
-            "No": "2",
+            "No": "3",
             "Tanggal": "19-11-2024 10:22",
             "Pertemuan Ke": "13",
             "Keterangan": "Judul : Pertemuan ke-13\r \t\t\t\t\t\t\t\tMateri : Prototying: Unity Interaction  Oleh : Matahari Bhakti Nendya, S.Kom., M.T (19-11-2024 10:22:39)",
             "Presensi": "H(19/11 11:39)"
         },
         {
-            "No": "3",
+            "No": "4",
             "Tanggal": "12-11-2024 10:30",
             "Pertemuan Ke": "12",
             "Keterangan": "Judul : Pertemuan ke-12\r \t\t\t\t\t\t\t\tMateri : Prototyping: Unity Interaction  Oleh : Matahari Bhakti Nendya, S.Kom., M.T (12-11-2024 10:25:24)",
             "Presensi": "H(12/11 10:45)"
         },
         {
-            "No": "4",
+            "No": "5",
             "Tanggal": "05-11-2024 10:30",
             "Pertemuan Ke": "11",
             "Keterangan": "Judul : Pertemuan ke-11\r \t\t\t\t\t\t\t\tMateri : Prototyping: World Desainer  Oleh : Matahari Bhakti Nendya, S.Kom., M.T (05-11-2024 10:15:51)",
             "Presensi": "H(05/11 10:37)"
         },
         {
-            "No": "5",
+            "No": "6",
             "Tanggal": "29-10-2024 10:30",
             "Pertemuan Ke": "10",
             "Keterangan": "Judul : Pertemuan ke-10\r \t\t\t\t\t\t\t\tMateri : Prototyping : Setup dan Konfigurasi Unity  Oleh : Matahari Bhakti Nendya, S.Kom., M.T (29-10-2024 09:43:33)",
             "Presensi": "A"
         },
         {
-            "No": "6",
+            "No": "7",
             "Tanggal": "17-10-2024 10:30",
             "Pertemuan Ke": "9",
             "Keterangan": "Judul : Pertemuan ke-9\r \t\t\t\t\t\t\t\tMateri : Ujian Tengah Semester  Oleh : Matahari Bhakti Nendya, S.Kom., M.T (17-10-2024 08:18:45)",
             "Presensi": "H(17/10 11:08) user : 202104545"
         },
         {
-            "No": "7",
+            "No": "8",
             "Tanggal": "15-10-2024 10:30",
             "Pertemuan Ke": "8",
             "Keterangan": "Judul : Pertemuan ke-8\r \t\t\t\t\t\t\t\tMateri : Legal dan Bisnis dalam Game  Oleh : Matahari Bhakti Nendya, S.Kom., M.T (14-10-2024 19:57:04)",
             "Presensi": "H(15/10 10:51)"
         },
         {
-            "No": "8",
+            "No": "9",
             "Tanggal": "08-10-2024 10:38",
             "Pertemuan Ke": "7",
             "Keterangan": "Judul : Pertemuan ke-7\r \t\t\t\t\t\t\t\tMateri :   Oleh : Matahari Bhakti Nendya, S.Kom., M.T (08-10-2024 10:38:44)",
             "Presensi": "H(08/10 10:39)"
         },
         {
-            "No": "9",
+            "No": "10",
             "Tanggal": "01-10-2024 10:30",
             "Pertemuan Ke": "6",
             "Keterangan": "Judul : Pertemuan ke-6\r \t\t\t\t\t\t\t\tMateri : Game Balancing  Oleh : Matahari Bhakti Nendya, S.Kom., M.T (01-10-2024 10:01:05)",
             "Presensi": "A"
         },
         {
-            "No": "10",
+            "No": "11",
             "Tanggal": "24-09-2024 10:30",
             "Pertemuan Ke": "5",
             "Keterangan": "Judul : Pertemuan ke-5\r \t\t\t\t\t\t\t\tMateri : Gameplay dan Core Mechanic  Oleh : Matahari Bhakti Nendya, S.Kom., M.T (24-09-2024 10:10:17)",
             "Presensi": "H(24/09 10:39)"
         },
         {
-            "No": "11",
+            "No": "12",
             "Tanggal": "17-09-2024 10:30",
             "Pertemuan Ke": "4",
             "Keterangan": "Judul : Pertemuan ke-4\r \t\t\t\t\t\t\t\tMateri : Game User Interface  Oleh : Matahari Bhakti Nendya, S.Kom., M.T (17-09-2024 10:25:03)",
             "Presensi": "H(17/09 10:58)"
         },
         {
-            "No": "12",
+            "No": "13",
             "Tanggal": "10-09-2024 10:30",
             "Pertemuan Ke": "3",
             "Keterangan": "Judul : Pertemuan ke-3\r \t\t\t\t\t\t\t\tMateri : Penceritaan, Karakter dan Dunia Game  Oleh : Matahari Bhakti Nendya, S.Kom., M.T (09-09-2024 13:49:51)",
             "Presensi": "H(10/09 10:59)"
         },
         {
-            "No": "13",
+            "No": "14",
             "Tanggal": "03-09-2024 10:32",
             "Pertemuan Ke": "2",
             "Keterangan": "Judul : Pertemuan ke-2\r \t\t\t\t\t\t\t\tMateri : Concept dan Genre Game  Oleh : Matahari Bhakti Nendya, S.Kom., M.T (03-09-2024 10:33:10)",
             "Presensi": "H(03/09 10:34)"
         },
         {
-            "No": "14",
+            "No": "15",
             "Tanggal": "27-08-2024 10:30",
             "Pertemuan Ke": "1",
             "Keterangan": "Judul : Pertemuan ke-1\r \t\t\t\t\t\t\t\tMateri : Game dan Video Game Game dan Video Game Oleh : Matahari Bhakti Nendya, S.Kom., M.T (26-08-2024 20:49:09)",
