@@ -416,97 +416,104 @@
     "https://eclass.ukdw.ac.id/e-class/id/kelas/presensi/TI9103": [
         {
             "No": "1",
+            "Tanggal": "09-12-2024 11:30",
+            "Pertemuan Ke": "15",
+            "Keterangan": "Judul : Pertemuan ke-15\r \t\t\t\t\t\t\t\tMateri : Presentasi Tugas Akhir  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (05-12-2024 19:16:11)",
+            "Presensi": "A"
+        },
+        {
+            "No": "2",
             "Tanggal": "04-12-2024 10:30",
             "Pertemuan Ke": "14",
             "Keterangan": "Judul : Pertemuan ke-14\r \t\t\t\t\t\t\t\tMateri : Clipping  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (04-12-2024 10:43:54)",
             "Presensi": "A user : 201604427"
         },
         {
-            "No": "2",
+            "No": "3",
             "Tanggal": "20-11-2024 10:30",
             "Pertemuan Ke": "13",
             "Keterangan": "Judul : Pertemuan ke-13\r \t\t\t\t\t\t\t\tMateri : Sifat dan Perilaku Objek Dalam Game  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (20-11-2024 12:07:13)",
             "Presensi": "A"
         },
         {
-            "No": "3",
+            "No": "4",
             "Tanggal": "13-11-2024 10:30",
             "Pertemuan Ke": "12",
             "Keterangan": "Judul : Pertemuan ke-12\r \t\t\t\t\t\t\t\tMateri : Interaksi Antar Objek Dalam Game  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (13-11-2024 10:05:58)",
             "Presensi": "H(13/11 11:56)"
         },
         {
-            "No": "4",
+            "No": "5",
             "Tanggal": "06-11-2024 10:30",
             "Pertemuan Ke": "11",
             "Keterangan": "Judul : Pertemuan ke-11\r \t\t\t\t\t\t\t\tMateri : Gerak Objek: Berbasis Koordinat dan Berbasis Vektor  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (05-11-2024 16:10:20)",
             "Presensi": "A"
         },
         {
-            "No": "5",
+            "No": "6",
             "Tanggal": "30-10-2024 10:33",
             "Pertemuan Ke": "10",
             "Keterangan": "Judul : Pertemuan ke-10\r \t\t\t\t\t\t\t\tMateri : Deteksi Tumbukan, Teknik Klik dan Drag Presentasi Ide Tugas Akhir Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (30-10-2024 10:34:36)",
             "Presensi": "A user : 201604427"
         },
         {
-            "No": "6",
+            "No": "7",
             "Tanggal": "25-10-2024 08:00",
             "Pertemuan Ke": "9",
             "Keterangan": "Judul : Pertemuan ke-9\r \t\t\t\t\t\t\t\tMateri : Ujian Tengah Semester Ujian Tengah Semester Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (24-10-2024 21:49:37)",
             "Presensi": "H(25/10 08:13)"
         },
         {
-            "No": "7",
+            "No": "8",
             "Tanggal": "16-10-2024 10:30",
             "Pertemuan Ke": "8",
             "Keterangan": "Judul : Pertemuan ke-8\r \t\t\t\t\t\t\t\tMateri : Uji Titik Dalam Garis dan Poligon  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (16-10-2024 09:42:04)",
             "Presensi": "H(16/10 11:10)"
         },
         {
-            "No": "8",
+            "No": "9",
             "Tanggal": "09-10-2024 10:30",
             "Pertemuan Ke": "7",
             "Keterangan": "Judul : Pertemuan ke-7\r \t\t\t\t\t\t\t\tMateri : Presentasi Ide Tugas Akhir  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (08-10-2024 19:21:08)",
             "Presensi": "H(09/10 11:53)"
         },
         {
-            "No": "9",
+            "No": "10",
             "Tanggal": "02-10-2024 10:30",
             "Pertemuan Ke": "6",
             "Keterangan": "Judul : Pertemuan ke-6\r \t\t\t\t\t\t\t\tMateri : Transformasi Geometri Affine dan Komposit  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (02-10-2024 08:19:54)",
             "Presensi": "A"
         },
         {
-            "No": "10",
+            "No": "11",
             "Tanggal": "25-09-2024 10:30",
             "Pertemuan Ke": "5",
             "Keterangan": "Judul : Pertemuan ke-5\r \t\t\t\t\t\t\t\tMateri : Struktur Pemrograman Game dan Input/Output  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (25-09-2024 01:08:23)",
             "Presensi": "H(25/09 12:25)"
         },
         {
-            "No": "11",
+            "No": "12",
             "Tanggal": "18-09-2024 10:30",
             "Pertemuan Ke": "4",
             "Keterangan": "Judul : Pertemuan ke-4\r \t\t\t\t\t\t\t\tMateri : Membuat dan Memanipulasi Objek Grafika 2 Dimensi  Oleh : Matahari Bhakti Nendya, S.Kom., M.T (18-09-2024 10:30:09)",
             "Presensi": "H(18/09 12:46) user : 201604427"
         },
         {
-            "No": "12",
+            "No": "13",
             "Tanggal": "11-09-2024 10:33",
             "Pertemuan Ke": "3",
             "Keterangan": "Judul : Pertemuan ke-3\r \t\t\t\t\t\t\t\tMateri : Primitif Grafika dan Turunannya  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (11-09-2024 10:33:31)",
             "Presensi": "H(11/09 11:51)"
         },
         {
-            "No": "13",
+            "No": "14",
             "Tanggal": "04-09-2024 10:30",
             "Pertemuan Ke": "2",
             "Keterangan": "Judul : Pertemuan ke-2\r \t\t\t\t\t\t\t\tMateri : Kanvas HTML dan Javascript  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (04-09-2024 09:47:01)",
             "Presensi": "H(04/09 11:56)"
         },
         {
-            "No": "14",
+            "No": "15",
             "Tanggal": "28-08-2024 10:30",
             "Pertemuan Ke": "1",
             "Keterangan": "Judul : Pertemuan ke-1\r \t\t\t\t\t\t\t\tMateri : Pengantar Grafika Komputer  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (27-08-2024 19:07:42)",
@@ -516,97 +523,104 @@
     "https://eclass.ukdw.ac.id/e-class/id/kelas/presensi/TI9233": [
         {
             "No": "1",
+            "Tanggal": "09-12-2024 08:29",
+            "Pertemuan Ke": "15",
+            "Keterangan": "Judul : Pertemuan ke-15\r \t\t\t\t\t\t\t\tMateri : MonsoonSIM (E-Commerce, Production, Maintenance, HCM)  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (09-12-2024 08:30:33)",
+            "Presensi": "A"
+        },
+        {
+            "No": "2",
             "Tanggal": "04-12-2024 07:30",
             "Pertemuan Ke": "14",
             "Keterangan": "Judul : Pertemuan ke-14\r \t\t\t\t\t\t\t\tMateri : MonsoonSIM (E-Commerce, Production, Maintenance, HCM)  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (04-12-2024 07:48:08)",
             "Presensi": "A"
         },
         {
-            "No": "2",
+            "No": "3",
             "Tanggal": "20-11-2024 07:30",
             "Pertemuan Ke": "13",
             "Keterangan": "Judul : Pertemuan ke-13\r \t\t\t\t\t\t\t\tMateri : Business Simulation  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (20-11-2024 07:57:25)",
             "Presensi": "A"
         },
         {
-            "No": "3",
+            "No": "4",
             "Tanggal": "13-11-2024 07:30",
             "Pertemuan Ke": "12",
             "Keterangan": "Judul : Pertemuan ke-12\r \t\t\t\t\t\t\t\tMateri : SAP Technologies [SAP01 bab 7],\u00a0Latihan Bab 7 (5%)Latihan Ujian\u00a0  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (13-11-2024 07:47:58)",
             "Presensi": "H(13/11 09:23)"
         },
         {
-            "No": "4",
+            "No": "5",
             "Tanggal": "06-11-2024 07:30",
             "Pertemuan Ke": "11",
             "Keterangan": "Judul : Pertemuan ke-11\r \t\t\t\t\t\t\t\tMateri : SAP Human Capital Management [SAP01 Bab 6]Tugas 7 (5%)  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (05-11-2024 16:08:50)",
             "Presensi": "A"
         },
         {
-            "No": "5",
+            "No": "6",
             "Tanggal": "30-10-2024 07:30",
             "Pertemuan Ke": "10",
             "Keterangan": "Judul : Pertemuan ke-10\r \t\t\t\t\t\t\t\tMateri : SAP Financial 2 Management Accounting [SAP01 bab 5]Tugas 6 (5%)  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (30-10-2024 07:42:42)",
             "Presensi": "A"
         },
         {
-            "No": "6",
+            "No": "7",
             "Tanggal": "21-10-2024 10:30",
             "Pertemuan Ke": "9",
             "Keterangan": "Judul : Pertemuan ke-9\r \t\t\t\t\t\t\t\tMateri : UTS (20%) Ujian Tengah Semester Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (21-10-2024 11:10:09)",
             "Presensi": "H(21/10 11:11)"
         },
         {
-            "No": "7",
+            "No": "8",
             "Tanggal": "16-10-2024 07:52",
             "Pertemuan Ke": "8",
             "Keterangan": "Judul : Pertemuan ke-8\r \t\t\t\t\t\t\t\tMateri : SAP Financial 1 Accounting [SAP01 bab 5]Tugas 5 (5%)  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (16-10-2024 07:52:41)",
             "Presensi": "H(16/10 08:08)"
         },
         {
-            "No": "8",
+            "No": "9",
             "Tanggal": "09-10-2024 07:30",
             "Pertemuan Ke": "7",
             "Keterangan": "Judul : Pertemuan ke-7\r \t\t\t\t\t\t\t\tMateri : Business Process (Financial dan Management Accounting) [Simha]  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (08-10-2024 19:22:34)",
             "Presensi": "H(09/10 07:58)"
         },
         {
-            "No": "9",
+            "No": "10",
             "Tanggal": "02-10-2024 07:30",
             "Pertemuan Ke": "6",
             "Keterangan": "Judul : Pertemuan ke-6\r \t\t\t\t\t\t\t\tMateri : SAP Logistics 2 (Production) [SAP01 bab 4]Tugas 4 (5%)  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (02-10-2024 07:39:25)",
             "Presensi": "A"
         },
         {
-            "No": "10",
+            "No": "11",
             "Tanggal": "25-09-2024 07:30",
             "Pertemuan Ke": "5",
             "Keterangan": "Judul : Pertemuan ke-5\r \t\t\t\t\t\t\t\tMateri : SAP Logistics (Sales and Procurement) [SAP01 bab 4]Tugas 3 (5%)  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (24-09-2024 21:58:09)",
             "Presensi": "A"
         },
         {
-            "No": "11",
+            "No": "12",
             "Tanggal": "18-09-2024 08:00",
             "Pertemuan Ke": "4",
             "Keterangan": "Judul : Pertemuan ke-4\r \t\t\t\t\t\t\t\tMateri : Business Process (Procurement, Sales, Production) [Simha]  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (18-09-2024 09:22:45)",
             "Presensi": "H(18/09 09:23)"
         },
         {
-            "No": "12",
+            "No": "13",
             "Tanggal": "11-09-2024 07:17",
             "Pertemuan Ke": "3",
             "Keterangan": "Judul : Pertemuan ke-3\r \t\t\t\t\t\t\t\tMateri :    Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (11-09-2024 07:18:14)",
             "Presensi": "A"
         },
         {
-            "No": "13",
+            "No": "14",
             "Tanggal": "04-09-2024 07:50",
             "Pertemuan Ke": "2",
             "Keterangan": "Judul : Pertemuan ke-2\r \t\t\t\t\t\t\t\tMateri : SAP Overview dan SAP Navigation [Turban, SAP01 bab 1 & 2]Tugas 1 (5%)  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (04-09-2024 07:50:26)",
             "Presensi": "H(04/09 07:55)"
         },
         {
-            "No": "14",
+            "No": "15",
             "Tanggal": "28-08-2024 07:30",
             "Pertemuan Ke": "1",
             "Keterangan": "Judul : Pertemuan ke-1\r \t\t\t\t\t\t\t\tMateri : Pendahuluan: silabus, kontrak perkuliahan, overview dan ERP [PPT kompilasi, Turban Bab 1]Pengenalan dan konfigurasi MonsoonSIM awalPengantar pembentukan kelompok untuk Monsoon dan BussimAkun Moodle  Oleh : Aditya Wikan Mahastama, S.Kom., M.Cs (27-08-2024 19:06:44)",
@@ -616,97 +630,104 @@
     "https://eclass.ukdw.ac.id/e-class/id/kelas/presensi/TI9463": [
         {
             "No": "1",
+            "Tanggal": "09-12-2024 17:30",
+            "Pertemuan Ke": "15",
+            "Keterangan": "Judul : Pertemuan ke-15\r \t\t\t\t\t\t\t\tMateri : Webinar (TBD) Webinar Final Preparation Oleh : Dr. Fransisca Endang Lestariningsih (09-12-2024 12:26:09)",
+            "Presensi": "H(09/12 17:54)"
+        },
+        {
+            "No": "2",
             "Tanggal": "05-12-2024 13:30",
             "Pertemuan Ke": "14",
             "Keterangan": "Judul : Pertemuan ke-14\r \t\t\t\t\t\t\t\tMateri : All roles of the webinar committee  Oleh : Dr. Fransisca Endang Lestariningsih (05-12-2024 11:59:45)",
             "Presensi": "A"
         },
         {
-            "No": "2",
+            "No": "3",
             "Tanggal": "28-11-2024 13:30",
             "Pertemuan Ke": "13",
             "Keterangan": "Judul : Pertemuan ke-13\r \t\t\t\t\t\t\t\tMateri : How to be an effective MC, moderators, and speakers  Oleh : Dr. Fransisca Endang Lestariningsih (28-11-2024 11:22:18)",
             "Presensi": "H(28/11 13:51)"
         },
         {
-            "No": "3",
+            "No": "4",
             "Tanggal": "18-11-2024 17:30",
             "Pertemuan Ke": "12",
             "Keterangan": "Judul : Pertemuan ke-12\r \t\t\t\t\t\t\t\tMateri : What is a webinar committee?\u00a0How to be an effective MC, moderators, and speakers  Oleh : Dr. Fransisca Endang Lestariningsih (18-11-2024 08:49:59)",
             "Presensi": "H(18/11 17:58)"
         },
         {
-            "No": "4",
+            "No": "5",
             "Tanggal": "14-11-2024 13:30",
             "Pertemuan Ke": "11",
             "Keterangan": "Judul : Pertemuan ke-11\r \t\t\t\t\t\t\t\tMateri : An academic journal article related to IT fieldScripts of a skit/ an interactive game/ a drama/ a talk show/ etc Project Preparation Oleh : Dr. Fransisca Endang Lestariningsih (14-11-2024 09:38:44)",
             "Presensi": "A"
         },
         {
-            "No": "5",
+            "No": "6",
             "Tanggal": "07-11-2024 13:30",
             "Pertemuan Ke": "10",
             "Keterangan": "Judul : Pertemuan ke-10\r \t\t\t\t\t\t\t\tMateri : An academic journal article related to IT fieldScripts of a skit/ an interactive game/ a drama/ a talk show/ etc  Oleh : Dr. Fransisca Endang Lestariningsih (06-11-2024 16:19:00)",
             "Presensi": "A"
         },
         {
-            "No": "6",
+            "No": "7",
             "Tanggal": "31-10-2024 13:30",
             "Pertemuan Ke": "9",
             "Keterangan": "Judul : Pertemuan ke-9\r \t\t\t\t\t\t\t\tMateri : How to deliver an engaging presentationWhat is a skit/ a drama/ an interactive game/ a talk show?  Oleh : Dr. Fransisca Endang Lestariningsih (31-10-2024 12:49:15)",
             "Presensi": "H(31/10 14:34) user : 200604321"
         },
         {
-            "No": "7",
+            "No": "8",
             "Tanggal": "21-10-2024 15:30",
             "Pertemuan Ke": "8",
             "Keterangan": "Judul : Pertemuan ke-8\r \t\t\t\t\t\t\t\tMateri : Ujian Tengah Semester (Pengumpulan Tugas)  Oleh : Dr. Fransisca Endang Lestariningsih (21-10-2024 10:19:17)",
             "Presensi": "H(21/10 15:39)"
         },
         {
-            "No": "8",
+            "No": "9",
             "Tanggal": "10-10-2024 13:30",
             "Pertemuan Ke": "7",
             "Keterangan": "Judul : Pertemuan ke-7\r \t\t\t\t\t\t\t\tMateri : How to Read and Summarize a Scientific Journal Article  Oleh : Dr. Fransisca Endang Lestariningsih (10-10-2024 11:23:26)",
             "Presensi": "A"
         },
         {
-            "No": "9",
+            "No": "10",
             "Tanggal": "03-10-2024 13:30",
             "Pertemuan Ke": "6",
             "Keterangan": "Judul : Pertemuan ke-6\r \t\t\t\t\t\t\t\tMateri : What is a scientific journal article\u00a0Introduction to writing a summaryHow to Write an Effective Academic Summary Paragraph (youtube.com)  Oleh : Dr. Fransisca Endang Lestariningsih (03-10-2024 08:57:42)",
             "Presensi": "A"
         },
         {
-            "No": "10",
+            "No": "11",
             "Tanggal": "26-09-2024 13:30",
             "Pertemuan Ke": "5",
             "Keterangan": "Judul : Pertemuan ke-5\r \t\t\t\t\t\t\t\tMateri : How to paraphrase: https://www.ncl.ac.uk/academic-skills-kit/good-academic-practice/plagiarism/how-to-paraphrase/\u00a0Task 4: Writing a paraphrase of a paragraph How to paraphrase Oleh : Dr. Fransisca Endang Lestariningsih (26-09-2024 12:47:31)",
             "Presensi": "H(26/09 14:27)"
         },
         {
-            "No": "11",
+            "No": "12",
             "Tanggal": "19-09-2024 13:30",
             "Pertemuan Ke": "4",
             "Keterangan": "Judul : Pertemuan ke-4\r \t\t\t\t\t\t\t\tMateri : Sentence analysis to comprehend a text better\u00a0Understanding contextual reference (ppt)Guessing meanings through context clues (ppt)Task 3: sentence analysis of an IT reading text Sentence analysis to comprehend a text better\u00a0Understanding contextual reference (ppt)Guessing meanings through context clues (ppt)Task 3: sentence analysis of an IT reading text Oleh : Dr. Fransisca Endang Lestariningsih (19-09-2024 13:29:53)",
             "Presensi": "H(19/09 13:54)"
         },
         {
-            "No": "12",
+            "No": "13",
             "Tanggal": "12-09-2024 13:30",
             "Pertemuan Ke": "3",
             "Keterangan": "Judul : Pertemuan ke-3\r \t\t\t\t\t\t\t\tMateri : Sentence analysis to comprehend a text betterUnderstanding sentences (ppt)Parts of Speech 1 | Continuing Studies at UVic\u00a0Parts of Speech | Learn English (englishclub.com)\u00a0 Membedakan parts of speech, frase, klausa, kalimat Oleh : Dr. Fransisca Endang Lestariningsih (12-09-2024 11:59:15)",
             "Presensi": "H(12/09 13:58)"
         },
         {
-            "No": "13",
+            "No": "14",
             "Tanggal": "05-09-2024 13:30",
             "Pertemuan Ke": "2",
             "Keterangan": "Judul : Pertemuan ke-2\r \t\t\t\t\t\t\t\tMateri : About academic reading (une.edu.au)\u00a0IELTS Reading Test (Cambridge English Language Assessment (2017). Cambridge English IELTS 12 Academic. Cambridge: Cambridge University Press.)\u00a0 Mengerjakan IELTS reading test (Task 2); Mempresentasikan pengetahuan tentang academic reading Oleh : Dr. Fransisca Endang Lestariningsih (05-09-2024 11:24:05)",
             "Presensi": "H(05/09 15:15)"
         },
         {
-            "No": "14",
+            "No": "15",
             "Tanggal": "29-08-2024 13:30",
             "Pertemuan Ke": "1",
             "Keterangan": "Judul : Pertemuan ke-1\r \t\t\t\t\t\t\t\tMateri : 1 set RPS Bahasa Inggris InformatikaSelf Introduction through Padlet https://padlet.com/endang1/my-new-friend-t60wgg77np341fjtDiagnostic https://practicetestgeeks.com/free-versant-reading-test-question-and-answers/\u00a0  Oleh : Dr. Fransisca Endang Lestariningsih (28-08-2024 16:04:59)",
