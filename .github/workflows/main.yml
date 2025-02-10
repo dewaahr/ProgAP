@@ -2,8 +2,8 @@ name: Run E-Class Notif
 
 on:
   workflow_dispatch: 
-  # schedule:
-    # - cron: '30 0-12 * * 2-4'
+  schedule:
+    - cron: '30 0-12 * * 2-4'
 
 jobs:
   run_script:
