@@ -5,7 +5,7 @@ from bs4 import BeautifulSoup
 import json
 
 import smtplib
-# from Tes import check_user_data
+
 
 def get_presensi(html_content):
     soup = BeautifulSoup(html_content, 'html.parser')
@@ -71,7 +71,7 @@ def create_Email(kelas,new_presensi):
                     f"Tanggal: {new_presensi['Tanggal']}\n" \
                     f"Pertemuan Ke: {new_presensi['Pertemuan Ke']}\n" \
                     f" Link Presensi : {kelas}"
-    print(msgTelegram)
+    
 
     send_telegram_message(bot_token,chat_id, msgTelegram)
 
@@ -107,7 +107,6 @@ def main():
  
             presensi = get_presensi(response.text)
             data_presensi[i] = presensi
-    print(data_presensi)
     with open("dataPresensi.json", "r") as file:
         data_presensi_lama = json.load(file)
         for key in data_presensi_lama:
