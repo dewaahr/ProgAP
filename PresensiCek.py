@@ -112,6 +112,7 @@ def main():
         data_presensi_lama = json.load(file)
         for key in data_presensi_lama:
             # print(key)
+            if key in data_presensi and data_presensi[key]:
                 if data_presensi[key] != data_presensi_lama[key]:
                     # print(data_presensi[key][0])
                     presensi_baru = data_presensi[key][0]
