@@ -71,18 +71,16 @@ def main():
     with requests.Session() as session:
         response = session.post(login_url, data=payload)
         if "Login gagal" in response.text:
-            print("Login gagal, silahkan periksa kembali ID atau password.")
             return
         else:
-            print("Login berhasil!")
             response = session.get(target_url)
             if response.ok:
                 print("Berhasil mengakses halaman target!")
+
             else:
-                print("Gagal mengakses halaman target.")
+                exit("Gagal mengakses halaman target.")
                 return
 
-            # Scraping data kelas
             emailMSG = ""
             soup = BeautifulSoup(response.text, 'html.parser')
             datakelas = soup.find_all('div', class_='kelas_box')
@@ -101,4 +99,52 @@ def main():
             
             create_Email("Jadwal Kuliah", emailMSG, user)
 
-main()
+def Tes():
+    payload = {
+        'id': '71220826',
+        'password': '112704',
+        'return_url': 'https://eclass.ukdw.ac.id/e-class/id/home/'
+
+    }
+    with requests.Session() as session:
+        response = session.post(login_url, data=payload)
+        if "Login gagal" in response.text:
+            print("Login gagal, silahkan periksa kembali ID atau password.")
+            return
+        else:
+            print("Login berhasil!")
+            response = session.get(target_url)
+            if response.ok:
+                print("Berhasil mengakses halaman target!")
+            else:
+                print("Gagal mengakses halaman target.")
+                
+    soup = BeautifulSoup(response.text, 'html.parser')
+    data_side = soup.find_all(class_="menu mc", href=True)
+    link_tugas = []
+    for _ in data_side:
+        if 'detail_tugas' in _['href']:
+            link_tugas.append(_['href'])
+    tes2(link_tugas)
+def tes2(links):
+        payload = {
+        'id': '71220826',
+        'password': '112704',
+        'return_url': 'https://eclass.ukdw.ac.id/e-class/id/home/'
+    }
+        with requests.Session() as session:
+            response = session.post(login_url, data=payload)
+            response = session.get(links[0])
+            soup = BeautifulSoup(response.text, 'html.parser')
+            _ = soup.find_all('tr',class_="isithread")
+            task_details = []
+        for task in _:
+            text = task.get_text(separator="\n", strip=True)
+            task_details.append(text)
+
+        message = "\n\n".join(task_details)
+        print(message.strip())
+        
+
+
+Tes()
