@@ -101,8 +101,7 @@ def main():
 
 def Tes():
     payload = {
-        'id': '71220826',
-        'password': '112704',
+       
         'return_url': 'https://eclass.ukdw.ac.id/e-class/id/home/'
 
     }
@@ -137,13 +136,18 @@ def tes2(links):
             response = session.get(links[0])
             soup = BeautifulSoup(response.text, 'html.parser')
             _ = soup.find_all('tr',class_="isithread")
+            _2= soup.find_all('h1')
+        
             task_details = []
         for task in _:
             text = task.get_text(separator="\n", strip=True)
             task_details.append(text)
 
-        message = "\n\n".join(task_details)
-        print(message.strip())
+        matkul_= _2[1].get_text()
+        isi_= task_details[1]
+        print(isi_)
+
+                
         
 
 
