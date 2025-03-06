@@ -1,9 +1,8 @@
-from email.mime.multipart import MIMEMultipart
-from email.mime.text import MIMEText
+
 import cloudscraper
 from bs4 import BeautifulSoup
 import json
-import smtplib
+import requests
 
 def get_presensi(html_content):
     soup = BeautifulSoup(html_content, 'html.parser')
@@ -53,14 +52,12 @@ def create_Email(kelas, new_presensi):
     bot_token = user['token']
     chat_id = user['chat_id']
 
-    msgTelegram = f"Presensi Baru Kelas {kelas_file.get(kelas, 'Unknown')}
-" \
-                  f"Tanggal: {new_presensi['Tanggal']}
-" \
-                  f"Pertemuan Ke: {new_presensi['Pertemuan Ke']}
-" \
+    msgTelegram = f"Presensi Baru Kelas {kelas_file.get(kelas, 'Unknown')} \n" \
+                  f"Tanggal: {new_presensi['Tanggal']} \n" \
+                  f"Pertemuan Ke: {new_presensi['Pertemuan Ke']} \n" \
+                  f"Keterangan: {new_presensi['Keterangan']} \n" \
                   f"Link Presensi: {kelas}"
-    
+
     send_telegram_message(bot_token, chat_id, msgTelegram)
 
 def send_telegram_message(bot_token, chat_id, message):
