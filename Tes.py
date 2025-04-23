@@ -126,11 +126,7 @@ def Tes():
             link_tugas.append(_['href'])
     tes2(link_tugas)
 def tes2(links):
-        payload = {
-        'id': '71220826',
-        'password': '112704',
-        'return_url': 'https://eclass.ukdw.ac.id/e-class/id/home/'
-    }
+
         with requests.Session() as session:
             response = session.post(login_url, data=payload)
             response = session.get(links[0])
